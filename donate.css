@@ -1,0 +1,21 @@
+.navbar{
+	text-align: center
+}
+
+li{
+	display: inline; padding: 150px;
+}
+
+header {
+	text-align: center;
+	color: red;
+}
+
+body{
+	background-image: url("polarbear.jpg");
+	background-size: cover;
+
+}
+a{
+	color: green;
+}
