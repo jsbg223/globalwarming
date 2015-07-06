@@ -1,0 +1,27 @@
+.wrapper
+{width: 1250px; }
+
+h1
+{text-align: center; background-color: lightgreen}
+
+
+h3
+{
+	border: solid; text-align: center;
+}
+
+
+li
+{display: inline; padding: 150px}
+
+.navbar
+{text-align: center}
+
+footer {background-color: lightgreen
+}
+
+body {background-color: lightgrey}
+
+img {width: 400px; height: 300px}
+
+.imgdiv {width: 100px}
